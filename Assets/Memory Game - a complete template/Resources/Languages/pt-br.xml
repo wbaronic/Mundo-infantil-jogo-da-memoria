@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language name="Português Brasileiro">
+  <title>Jogo da memória</title>
+  <developedBy>Desenvolvido por &#10;%company</developedBy>
+  <play></play>
+  <about></about>
+  <finishedText>Você Venceu com Tentativas: %attempts</finishedText>
+  <finishedErrorsText> Erros: %errors  Assista uma propaganda para continuar</finishedErrorsText>
+  <attemptsText>Tentativas: %attempts</attemptsText>
+  <errorsText> Erros: %errors</errorsText>
+  <mainMenu></mainMenu>
+  <powerText>Assista uma propaganda em vídeo para ver as cartas </powerText>
+
+  <quitGame></quitGame>
+  <playAgain></playAgain>
+  <selectTheme>Selecione o tema</selectTheme>
+  <changeLanguage></changeLanguage>
+  <selectLanguage>Selecione o idioma</selectLanguage>
+  <Themes>
+    <A>Letra A</A>
+    <B>Letra B</B>
+    
+
+    <alimento>Alimento</alimento>
+    <animals>Animais</animals>
+    <flags>C</flags>
+    <letters>D</letters>
+    <landscapes>E</landscapes>
+    <brazilian_flags>F</brazilian_flags>
+    <Bible>Bíblia</Bible>
+
+  </Themes>
+  <Dificulty>
+    <very_easy>Muito fácil</very_easy>
+    <easy>Fácil</easy>
+    <medium>Média</medium>
+    <hard>Difícil</hard>
+    <very_hard>Muito difícil</very_hard>
+  </Dificulty>
+  <confirm>Confirmar</confirm>
+  <cancel>Cancelar</cancel>
+  <selectDificulty>Selecione a dificuldade</selectDificulty>
+  <startGame>Iniciar o jogo</startGame>
+  <back_theme_selection>Voltar para a seleção de tema</back_theme_selection>
+</Language>

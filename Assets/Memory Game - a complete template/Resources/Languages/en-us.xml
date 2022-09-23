@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language name="English - United States">
+  <title>Memory game</title>
+  <developedBy>Developed by %company</developedBy>
+  <play></play>
+  <about></about>
+  <finishedText>You have finished in %attempts attempts</finishedText>
+  <finishedErrorsText>Errors: %errors   watch an ad to continue</finishedErrorsText>
+  <attemptsText>Attempts: %attempts</attemptsText>
+  <errorsText>Errors: %errors</errorsText>
+  <mainMenu></mainMenu>
+  <powerText>watch a video ad to super power </powerText>
+
+  <quitGame></quitGame>
+  <playAgain></playAgain>
+  <selectTheme>Select Theme</selectTheme>
+  <changeLanguage></changeLanguage>
+  <selectLanguage>Select language</selectLanguage>
+  <Themes>
+    
+    
+    <alimento>Food</alimento>
+    <animals>Animal</animals>
+    <flags>Flags</flags>
+    <letters>Letter D</letters>
+    <landscapes>Landscapes and flowers</landscapes>
+    <brazilian_flags>Brazilian flags</brazilian_flags>
+    <Bible>Bible</Bible>
+
+  </Themes>
+  <Dificulty>
+    <very_easy>Very easy</very_easy>
+    <easy>Easy</easy>
+    <medium>Medium</medium>
+    <hard>Hard</hard>
+    <very_hard>Very hard</very_hard>
+  </Dificulty>
+  <confirm>Confirm</confirm>
+  <cancel>Cancel</cancel>
+  <selectDificulty>Select dificulty</selectDificulty>
+  <startGame>Start game</startGame>
+  <back_theme_selection>Back to theme selection</back_theme_selection>
+</Language>
